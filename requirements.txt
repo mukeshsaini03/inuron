@@ -1,3 +1,0 @@
-pandas as pd
-numpy as npgit status
-## This is a changed code
